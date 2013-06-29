@@ -164,7 +164,7 @@ img.framed {
   margin-bottom: 0;
   padding-top: 30px;
   padding-bottom: 50px;
-  background: #000 url("../assets/header-bg-3.jpg") center top no-repeat;
+  background: #000;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='assets/header-bg-3.jpg', sizingMethod='scale'); /* IE7 */
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='assets/header-bg-3.jpg', sizingMethod='scale')"; /* IE8+ */
   -webkit-background-size: cover;
