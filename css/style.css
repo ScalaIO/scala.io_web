@@ -19,6 +19,10 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+.tsb1 {
+  font-size: 30px;
+}
+
 .big {
   font-size: 18px;
   font-weight: bold;
